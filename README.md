@@ -1,2 +1,11 @@
-# prediction-Meteo
-On veut développer un site web statique pour les données météorologiques de la ville de Montréal en utilisant les langages HTML et CSS.
+# Portfolio – Étudiant en développement web
+
+Portfolio personnel réalisé dans le cadre de mes études en Techniques de l’informatique (DEC).
+
+## Technologies utilisées
+- HTML
+- CSS
+- JavaScript (bases)
+
+## Objectif
+Présenter mes projets scolaires et personnels en développement web, et démontrer ma progression vers un poste de développeur web junior.
